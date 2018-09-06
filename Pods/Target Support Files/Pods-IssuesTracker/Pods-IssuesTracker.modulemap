@@ -1,0 +1,6 @@
+framework module Pods_IssuesTracker {
+  umbrella header "Pods-IssuesTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
